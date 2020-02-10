@@ -1,0 +1,7 @@
+rocketmq:
+  producer:
+    group: example
+  name-server: localhost:9876
+logging:
+  file:
+    path: E://tmp//rocketmq-console
